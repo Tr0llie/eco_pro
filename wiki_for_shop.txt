@@ -8,6 +8,8 @@ catergories will be displayed like this
     ID : catergory name
     description of the catergory
 
+0: cancel / exit the shop
+
 1 : food and essentials
 desc = in this catergory you will be able to buy food related items such as water, rice, etc...
 
@@ -16,3 +18,4 @@ desc = in this catergory you will be able to buy items that will raise how much 
 
 3 : socialization items
 desc = in this catergory you will be able to buy things related to socialization such as computers, phones, application, etc...
+
