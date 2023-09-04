@@ -1,0 +1,23 @@
+Shop
+(please type in the item id to buy it)
+"Prices may change due to inflation"
+items will be displayed like this
+
+    ID : Item name : price
+    description of the item
+    (stock : )
+
+0: cancel / exit the shop
+
+1052 : Water Bottle : $50
+desc = drink water to refill your thirst ( refill 10 bars of thirst)
+note = max limit of thirst is 20 bars, if you drink more then that, it will not change.
+    (Stock : unlimited)
+
+2052 : Apple : $20
+desc = eat an apple to refill your hunger ( refills 5 bars of hunger)
+note = max limit of hunger is 50 bars, if you eat more than that, it will not change.
+    (Stock : unlimited)
+
+
+

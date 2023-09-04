@@ -1,0 +1,18 @@
+Shop
+(please type in the item id to buy it)
+"Prices may change due to inflation"
+items will be displayed like this
+
+    ID : Item name : price
+    description of the item
+    (limit: )
+
+0: cancel / exit the shop
+
+9032 : Super Computer : $20,000
+desc = Buy a Super Computer to increase gains from working ( will increase your salary to min = 100 and max = 1000)
+desc = After buying a Super Computer, you are unable to buy another one
+desc = lifetime limit (1 Supercomputer)
+
+
+
